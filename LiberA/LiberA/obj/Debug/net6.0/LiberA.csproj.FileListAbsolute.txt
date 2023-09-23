@@ -1,0 +1,11 @@
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\bin\Debug\net6.0\LiberA.deps.json
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\bin\Debug\net6.0\LiberA.dll
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\bin\Debug\net6.0\LiberA.pdb
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.AssemblyInfoInputs.cache
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.AssemblyInfo.cs
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.csproj.CoreCompileInputs.cache
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.dll
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\refint\LiberA.dll
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\LiberA.pdb
+C:\Users\sunilsudharshan.vm\source\repos\LiberA\LiberA\obj\Debug\net6.0\ref\LiberA.dll

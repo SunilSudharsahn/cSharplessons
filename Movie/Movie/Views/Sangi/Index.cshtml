@@ -1,0 +1,14 @@
+﻿<div>
+    @{
+    ViewData["Title"] = "Index";
+        var all_route_parms=new Dictionary<string,string>{
+{"x","200"},{"y","59"}
+    };
+
+    }
+    <h1>Index</h1>
+    <div> <a asp-action="Add" asp-controller="CalculatorController1" asp-route-x="500" asp-route-y="3">CallAdd asp-route</a></div>
+    <div>
+        <a asp-action="Add" asp-controller="CalculatorController1" asp-all-route-data="all_route_parms">CallAdd all_route_parms</a>
+    </div>
+</div>

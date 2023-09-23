@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>OrderID</h1>
+<form asp-asp-controller="Order" method="post" asp-action="Details">
+    <select asp-items="ViewBag.ID">
+    </select>
+    <button type="submit">details</button>
+</form>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWZ3BsXSOtMxwz+FRN1uAMPje1WNQO7eKYUrYHE/tfx3eKAhF3yG157jVBzuQibuxi3CpJiFH6klO3V7y51HfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sunilsudharshan.vm\\source\\repos\\LiberA\\Consoleapplication\\Consoleapplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunilsudharshan.vm\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
